@@ -1,0 +1,20 @@
+2 ls
+   3 ls-l
+   4 git init
+   5 ls
+   6 python test.py
+   7 git status
+   8 git add test.py
+   9 clear
+  10 git status
+  13 git rm --cached "test.py"
+  14 git status
+  15 git add test.py
+  16 git status
+  17 git commit-m "added test file"
+  18 git commit -m "added test file"
+  19 git status
+  20 rm test.py
+  21 git status
+  22 git restore test.py
+  23 git status
